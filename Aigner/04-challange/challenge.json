@@ -1,0 +1,17 @@
+let cars = `[
+    {   "carName": "VW Golf",
+        "year": "2020",
+        "image": "https://aaaautoeuimg.vshcdn.net/thumb/300078270_640x480x95.jpg?75782",
+        "price": "20000",
+    },
+    {   "carName": "Peugeot 207SW",
+        "year": "2012",
+        "image": "https://img.auto.cz/foto/peugeot-bazar-malevozy/NjkweDQyNS9jZW50ZXIvbWlkZGxlL3NtYXJ0L2ZpbHRlcnM6cXVhbGl0eSg4NSkvaW1n/4607408.jpg?v=0&st=ORP_bbUvRkp6onB3EFCcZt2j9XYnPcigbLqEWS1RWEc&ts=1600812000&e=0",
+        "price": "5000"
+    },    
+    {   "carName": "Toyota Prius Plus",
+        "year": "2015",
+        "image": "https://car-images.bauersecure.com/wp-images/14150/480x270/prius-2015-1.jpg",
+        "price": "15500"
+    }
+]`
