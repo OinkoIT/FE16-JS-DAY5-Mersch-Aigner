@@ -7,15 +7,14 @@ console.log(car);
 const baujahr = document.querySelectorAll(".baujahr");
 const preis = document.querySelectorAll(".preis");
 const pic = document.querySelectorAll(".pic");
-const carName = document.querySelectorAll(".car");
+const carName = document.querySelectorAll(".name");
 
 const printCar = () => {
     car.forEach ((item, i) => {
-        baujahr.innerHTML = `Baujahr: ${car[i].year}`;
-        preis.innerHTML = `Preis: ${car[i].price}`;
-        carName.innerHTML = `${car[i].carName}`;
-        pic.src = `${car[i].image}`;
-
+        baujahr[i].innerHTML = `Baujahr: ${car[i].year}`;
+        preis[i].innerHTML = `Preis: ${car[i].price}`;
+        carName[i].innerHTML = `${car[i].carName}`;
+        pic[i].src = `${car[i].image}`;
     })
 };
 
