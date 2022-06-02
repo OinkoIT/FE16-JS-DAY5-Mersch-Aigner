@@ -1,0 +1,17 @@
+let books = `[
+    {   "title": "Javascript for Dummies",
+        "author": "Dummy Dumb Dumb",
+        "cover": "https://images-na.ssl-images-amazon.com/images/I/51IWL7y8ecL._SX397_BO1,204,203,200_.jpg",
+        "read": "false"
+    },
+    {   "title": "Guards Guards",
+        "author": "Terry Pratchett",
+        "cover": "https://assets.thalia.media/img/artikel/f50baf01c2db42152a2cdde766e04825b9ed8cde-00-00.jpeg",
+        "read": "true"
+    },    
+    {   "title": "Moby Dick",
+        "author": "Herman Melville",
+        "cover": "https://assets.thalia.media/img/artikel/960c32b640082f62d8e3c6197fe09175d429ca4f_BF2000-2000.jpeg",
+        "read": "false"
+    }
+]`
