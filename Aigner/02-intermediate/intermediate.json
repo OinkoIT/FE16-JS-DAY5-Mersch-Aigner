@@ -1,0 +1,100 @@
+let intermediate = `[{
+
+    "Unique Id": "29893944817",
+    "job Title" : "Developer",
+    "firstName": "Patrik",
+    "lastName": "Star",
+    "salary" : "333",
+    "emailAddress": "patrik.k.jonathan@gmail.com"
+
+}, {
+
+    "Unique Id": "29823964877" ,
+    "job Title": "Analyst",
+    "firstName": "Tom",
+    "lastName": "Irani",
+    "salary" : "333",
+    "emailAddress": "tomrirani@gmail.com"
+
+}, {
+
+    "Unique Id": "25833742117" ,
+    "job Title": "Program Directory",
+    "firstName": "Tom",
+    "lastName": "Hanks",
+    "salary" : "333",
+    "emailAddress": "tomhanks@gmail.com"
+
+}, {
+
+    "Unique Id": "20000000007" ,
+    "job Title": "Analyst",
+    "firstName": "Sponge",
+    "lastName": "Bob",
+    "salary" : "333",
+    "emailAddress": "bobby@gmail.com"
+
+}, {
+
+    "Unique Id": "20000000017" ,
+    "job Title": "Program Directory",
+    "firstName": "Squid",
+    "lastName": "Ward",
+    "salary" : "333",
+    "emailAddress": "tomhanks@gmail.com"
+
+}, {
+
+    "Unique Id": "2222222227" ,
+    "job Title": "Analyst",
+    "firstName": "Tom",
+    "lastName": "cat",
+    "salary" : "333",
+    "emailAddress": "tomrcat@gmail.com"
+
+}, {
+
+    "Unique Id": "29999999917" ,
+    "job Title": "Program Directory",
+    "firstName": "Tom",
+    "lastName": "hill",
+    "salary" : "333",
+    "emailAddress": "tomhill@gmail.com"
+
+}, {
+
+    "Unique Id": "256565656567" ,
+    "job Title": "Analyst",
+    "firstName": "Jerry",
+    "lastName": "Mouse",
+    "salary" : "333",
+    "emailAddress": "jerrym@gmail.com"
+
+}, {
+
+    "Unique Id": "2233322223227" ,
+    "job Title": "Program Directory",
+    "firstName": "Homer",
+    "lastName": "Simpson",
+    "salary" : "333",
+    "emailAddress": "homersimpson@gmail.com"
+
+}, {
+
+    "Unique Id": "212345678908757" ,
+    "job Title": "Analyst",
+    "firstName": "dick",
+    "lastName": "dastardly",
+    "salary" : "333",
+    "emailAddress": "dickrdastardly@gmail.com"
+
+}]`
+
+
+
+
+
+
+
+
+
