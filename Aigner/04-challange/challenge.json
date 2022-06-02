@@ -2,7 +2,7 @@ let cars = `[
     {   "carName": "VW Golf",
         "year": "2020",
         "image": "https://aaaautoeuimg.vshcdn.net/thumb/300078270_640x480x95.jpg?75782",
-        "price": "20000",
+        "price": "20000"
     },
     {   "carName": "Peugeot 207SW",
         "year": "2012",
