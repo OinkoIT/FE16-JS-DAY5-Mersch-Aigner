@@ -20,8 +20,12 @@ const output = document.querySelector(".output");
 const printBooks = () => {
     output.innerHTML = "";
     book.forEach ((item, i) => {
-    output.innerHTML += `<p> ${book[i].title} by ${book[i].author} </p> <br>
-    <img src="${book[i].cover}" alt="">`;
+    if (book[i].read=="true"){
+    output.innerHTML += `<p class="green"> ${book[i].title} by ${book[i].author} </p> <br>
+    <img src="${book[i].cover}" width="200px" alt="">`; } else if (book[i].read=="false") {
+        output.innerHTML += `<p class="red"> ${book[i].title} by ${book[i].author} </p> <br>
+    <img src="${book[i].cover}" width="200px" alt="">`;
+    };
 })
 };
 
